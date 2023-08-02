@@ -3,7 +3,7 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 ### Hi there, I'm KAJAL RAWAT👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+I Am A BTech 2nd-Year Student From The Computer Science Domain. I Am Always Enthusiastic About Learning New Things And Creative Innovation Ideas. Looking Forward To Working On Exciting Upcoming Projects With Innovative People.
 
 ![Profile views](https://komarev.com/ghpvc/?username=kajal21cs1012&label=Profile%20views&color=32CD32&style=flat)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
