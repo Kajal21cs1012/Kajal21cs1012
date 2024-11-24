@@ -12,7 +12,7 @@ I Am A BTech 2nd-Year Student From The Computer Science Domain. I Am Always Enth
 - 🔭 Simultaneously exploring **Web3**
 - 💬 Ask me about **Web Development**, **Open Source Contributions**, and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at: **kajalrawatji369@gmail.com**
+- 📫 Reach me at: **21cs1012@mvn.edu.in**
 - ⚡ Fun fact: I love designing and traveling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge technologies to meet future requirements.
 
